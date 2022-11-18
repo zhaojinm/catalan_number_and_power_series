@@ -1,1 +1,4 @@
-# catalan_number_and_power_series
+# catalan number and power series
+
+
+power series is amazing.
