@@ -1,4 +1,6 @@
 # catalan number and power series
 
 
-power series is amazing.
+key words: catalan number, power series, generative function.
+
+Math is amazing!
